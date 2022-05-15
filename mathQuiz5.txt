@@ -1,0 +1,354 @@
+Name:		Date:		Period:
+
+                    Assorted Mathimatics (Quiz 5)
+
+Question 1:	3 + 11  = __
+	A. 13	
+	B. 14	
+	C. 23	
+	D. 2	
+	E. 18	
+
+Question 2:	3 + 1  = __
+	A. 4	
+	B. 24	
+	C. 21	
+	D. 20	
+	E. 17	
+
+Question 3:	9 + 3  = __
+	A. 3	
+	B. 6	
+	C. 18	
+	D. 12	
+	E. 23	
+
+Question 4:	1 + 0  = __
+	A. 20	
+	B. 1	
+	C. 6	
+	D. 19	
+	E. 5	
+
+Question 5:	1 + 7  = __
+	A. 8	
+	B. 9	
+	C. 20	
+	D. 11	
+	E. 18	
+
+Question 6:	5 + 1  = __
+	A. 1	
+	B. 20	
+	C. 8	
+	D. 6	
+	E. 12	
+
+Question 7:	2 + 4  = __
+	A. 9	
+	B. 23	
+	C. 12	
+	D. 22	
+	E. 6	
+
+Question 8:	6 + 1  = __
+	A. 0	
+	B. 7	
+	C. 2	
+	D. 20	
+	E. 4	
+
+Question 9:	4 + 4  = __
+	A. 8	
+	B. 12	
+	C. 22	
+	D. 24	
+	E. 0	
+
+Question 10:	10 + 5  = __
+	A. 20	
+	B. 15	
+	C. 10	
+	D. 18	
+	E. 7	
+
+Question 11:	1 + 2  = __
+	A. 1	
+	B. 12	
+	C. 13	
+	D. 3	
+	E. 14	
+
+Question 12:	2 + 12  = __
+	A. 0	
+	B. 14	
+	C. 24	
+	D. 1	
+	E. 12	
+
+Question 13:	6 + 6  = __
+	A. 7	
+	B. 10	
+	C. 6	
+	D. 12	
+	E. 14	
+
+Question 14:	9 + 5  = __
+	A. 21	
+	B. 20	
+	C. 23	
+	D. 14	
+	E. 13	
+
+Question 15:	1 + 5  = __
+	A. 14	
+	B. 24	
+	C. 6	
+	D. 9	
+	E. 7	
+
+Question 16:	9 + 8  = __
+	A. 12	
+	B. 24	
+	C. 17	
+	D. 7	
+	E. 20	
+
+Question 17:	10 + 3  = __
+	A. 2	
+	B. 13	
+	C. 16	
+	D. 8	
+	E. 11	
+
+Question 18:	7 + 3  = __
+	A. 10	
+	B. 19	
+	C. 0	
+	D. 5	
+	E. 17	
+
+Question 19:	2 + 4  = __
+	A. 7	
+	B. 5	
+	C. 6	
+	D. 4	
+	E. 24	
+
+Question 20:	10 + 9  = __
+	A. 9	
+	B. 19	
+	C. 22	
+	D. 0	
+	E. 16	
+
+Question 21:	1 + 10  = __
+	A. 11	
+	B. 10	
+	C. 23	
+	D. 15	
+	E. 13	
+
+Question 22:	11 + 3  = __
+	A. 12	
+	B. 6	
+	C. 22	
+	D. 14	
+	E. 23	
+
+Question 23:	7 + 9  = __
+	A. 16	
+	B. 20	
+	C. 11	
+	D. 21	
+	E. 15	
+
+Question 24:	1 + 1  = __
+	A. 18	
+	B. 23	
+	C. 2	
+	D. 4	
+	E. 17	
+
+Question 25:	9 + 11  = __
+	A. 13	
+	B. 10	
+	C. 11	
+	D. 21	
+	E. 20	
+
+Question 26:	3 + 1  = __
+	A. 21	
+	B. 14	
+	C. 15	
+	D. 22	
+	E. 4	
+
+Question 27:	0 + 0  = __
+	A. 18	
+	B. 0	
+	C. 16	
+	D. 15	
+	E. 1	
+
+Question 28:	0 + 1  = __
+	A. 9	
+	B. 1	
+	C. 22	
+	D. 23	
+	E. 17	
+
+Question 29:	5 + 11  = __
+	A. 23	
+	B. 16	
+	C. 5	
+	D. 13	
+	E. 3	
+
+Question 30:	3 + 4  = __
+	A. 4	
+	B. 7	
+	C. 8	
+	D. 16	
+	E. 1	
+
+Question 31:	7 + 0  = __
+	A. 9	
+	B. 20	
+	C. 7	
+	D. 4	
+	E. 8	
+
+Question 32:	9 + 8  = __
+	A. 2	
+	B. 20	
+	C. 17	
+	D. 1	
+	E. 13	
+
+Question 33:	5 + 0  = __
+	A. 1	
+	B. 9	
+	C. 14	
+	D. 5	
+	E. 0	
+
+Question 34:	0 + 8  = __
+	A. 11	
+	B. 10	
+	C. 0	
+	D. 8	
+	E. 22	
+
+Question 35:	8 + 0  = __
+	A. 8	
+	B. 16	
+	C. 21	
+	D. 13	
+	E. 2	
+
+Question 36:	1 + 2  = __
+	A. 3	
+	B. 1	
+	C. 8	
+	D. 16	
+	E. 17	
+
+Question 37:	8 + 8  = __
+	A. 1	
+	B. 21	
+	C. 13	
+	D. 16	
+	E. 10	
+
+Question 38:	6 + 3  = __
+	A. 17	
+	B. 9	
+	C. 4	
+	D. 2	
+	E. 10	
+
+Question 39:	12 + 7  = __
+	A. 13	
+	B. 16	
+	C. 12	
+	D. 19	
+	E. 10	
+
+Question 40:	11 + 8  = __
+	A. 8	
+	B. 19	
+	C. 23	
+	D. 6	
+	E. 9	
+
+Question 41:	7 + 2  = __
+	A. 7	
+	B. 0	
+	C. 13	
+	D. 12	
+	E. 9	
+
+Question 42:	3 + 1  = __
+	A. 4	
+	B. 1	
+	C. 9	
+	D. 7	
+	E. 0	
+
+Question 43:	8 + 3  = __
+	A. 11	
+	B. 3	
+	C. 0	
+	D. 12	
+	E. 17	
+
+Question 44:	7 + 1  = __
+	A. 7	
+	B. 24	
+	C. 19	
+	D. 8	
+	E. 5	
+
+Question 45:	5 + 10  = __
+	A. 15	
+	B. 4	
+	C. 21	
+	D. 22	
+	E. 5	
+
+Question 46:	9 + 1  = __
+	A. 0	
+	B. 10	
+	C. 5	
+	D. 21	
+	E. 11	
+
+Question 47:	10 + 10  = __
+	A. 15	
+	B. 20	
+	C. 1	
+	D. 13	
+	E. 24	
+
+Question 48:	12 + 10  = __
+	A. 22	
+	B. 2	
+	C. 9	
+	D. 1	
+	E. 3	
+
+Question 49:	10 + 3  = __
+	A. 18	
+	B. 8	
+	C. 13	
+	D. 20	
+	E. 16	
+
+Question 50:	8 + 12  = __
+	A. 8	
+	B. 0	
+	C. 5	
+	D. 6	
+	E. 20	
+
